@@ -1,0 +1,13 @@
+.Pokecard {
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: rgb(208, 208, 208);
+    margin: 1%;
+    border-radius: 5%;
+}
+
+.Pokecard-img {
+    width: 100%;
+}
